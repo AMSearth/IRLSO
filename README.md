@@ -37,7 +37,7 @@ This project is fully dockerized. To spin up this simulation, follow these steps
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/AMSearth/IRLSO.git
    cd IRLSO
    ```
 
